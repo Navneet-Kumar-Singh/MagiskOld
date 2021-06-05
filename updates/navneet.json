@@ -6,10 +6,10 @@
     "note": ""
   },
   "magisk": {
-    "version": "27.3",
-    "versionCode": "20210601",
+    "version": "23.3",
+    "versionCode": "20190801",
     "link": "https://github.com/Navneet-Kumar-Singh/MagiskOld/blob/main/Magisk-v13.3.zip?raw=true",
-    "note": "https://forum.xda-developers.com/showthread.php?t=3521901",
+
     "md5": "0f3d428557bddc86d2fb6351a3469545"
   },
   "uninstaller": {
